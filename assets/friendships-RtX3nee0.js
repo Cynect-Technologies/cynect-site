@@ -1,0 +1,1 @@
+import{ap as t,a}from"./index-BVCJmeMd.js";const i=a("friendships");async function c(e){const{data:r,error:s}=await t.from("friendships").select("*").eq("status","accepted").or(`sender_dog_id.eq.${e},receiver_dog_id.eq.${e}`).order("created_at",{ascending:!1});if(s)throw s;return r??[]}async function d(e){return i.create({status:"pending",...e})}export{i as F,c as g,d as r};

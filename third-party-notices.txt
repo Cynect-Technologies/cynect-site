@@ -1,0 +1,110 @@
+Dogo — Third-Party Software Notices
+====================================
+This application includes third-party software components.
+Full license texts are available at the URLs listed below.
+
+------------------------------------------------------------
+1. Heebo Font
+------------------------------------------------------------
+Copyright (c) 2016 The Heebo Project Authors
+License: SIL Open Font License 1.1
+URL: https://scripts.sil.org/OFL
+Source: https://github.com/OdedEzer/heebo
+
+------------------------------------------------------------
+2. Lucide Icons
+------------------------------------------------------------
+Copyright (c) 2022 Lucide Contributors
+License: ISC License
+URL: https://github.com/lucide-icons/lucide/blob/main/LICENSE
+
+------------------------------------------------------------
+3. Font Awesome Free (shield-dog icon)
+------------------------------------------------------------
+Font Awesome Free 6.5.2 by @fontawesome
+Copyright 2024 Fonticons, Inc.
+Icons license: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Fonts license: SIL OFL 1.1 — https://scripts.sil.org/OFL
+Code license: MIT — https://opensource.org/licenses/MIT
+URL: https://fontawesome.com
+
+------------------------------------------------------------
+4. Streamline Icons (pilot assets — home, paw, forest, dog)
+------------------------------------------------------------
+© Streamline HQ — https://streamlinehq.com
+Used under Streamline free-tier attribution license.
+Original icons modified: fill color converted to currentColor for theming.
+
+------------------------------------------------------------
+5. React
+------------------------------------------------------------
+Copyright (c) Meta Platforms, Inc. and affiliates
+License: MIT
+URL: https://github.com/facebook/react/blob/main/LICENSE
+
+------------------------------------------------------------
+6. Framer Motion
+------------------------------------------------------------
+Copyright (c) 2018 Framer B.V.
+License: MIT
+URL: https://github.com/framer/motion/blob/main/LICENSE.md
+
+------------------------------------------------------------
+7. Radix UI
+------------------------------------------------------------
+Copyright (c) 2022 WorkOS
+License: MIT
+URL: https://github.com/radix-ui/primitives/blob/main/LICENSE
+
+------------------------------------------------------------
+8. date-fns
+------------------------------------------------------------
+Copyright (c) 2021 Sasha Koss and Lesha Koss
+License: MIT
+URL: https://github.com/date-fns/date-fns/blob/main/LICENSE.md
+
+------------------------------------------------------------
+9. React Leaflet / Leaflet
+------------------------------------------------------------
+Copyright (c) 2010-2023, Vladimir Agafonkin
+License: BSD-2-Clause
+URL: https://github.com/Leaflet/Leaflet/blob/main/LICENSE
+
+------------------------------------------------------------
+10. TanStack Query (react-query)
+------------------------------------------------------------
+Copyright (c) 2021 Tanner Linsley
+License: MIT
+URL: https://github.com/TanStack/query/blob/main/LICENSE
+
+------------------------------------------------------------
+11. Recharts
+------------------------------------------------------------
+Copyright (c) 2015-2024 Recharts Group
+License: MIT
+URL: https://github.com/recharts/recharts/blob/master/LICENSE
+Used for: walk analytics charts in WalkTracker page.
+
+------------------------------------------------------------
+12. Mapbox GL JS (POC — not active in default build)
+------------------------------------------------------------
+Copyright (c) 2021 Mapbox
+License: Mapbox Terms of Service (proprietary with free tier)
+URL: https://github.com/mapbox/mapbox-gl-js/blob/main/LICENSE.txt
+Note: Mapbox GL JS is included as a proof-of-concept map feature
+(VITE_MAPBOX_ENABLED=false by default). Only active when explicitly enabled.
+Mapbox billing terms apply if map tile requests exceed free tier limits.
+Requires Mapbox account token. See: https://www.mapbox.com/pricing/
+
+------------------------------------------------------------
+For questions about third-party licenses, contact:
+support@dogo-il.com
+
+------------------------------------------------------------
+NOTE: Base44 SDK Analytics
+------------------------------------------------------------
+The @base44/sdk includes an analytics module that tracks
+usage events. All analytics data is sent to Base44's own
+servers (base44.app) as part of the application backend.
+This is first-party analytics, not a third-party tracker.
+No data is shared with advertising networks or brokers.

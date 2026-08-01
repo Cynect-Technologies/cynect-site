@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="he" dir="rtl" style="color-scheme: light;">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/icons/dogo-icon-32.png" type="image/png" sizes="32x32" />
+    <link rel="icon" href="/icons/dogo-icon-192.png" type="image/png" sizes="192x192" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content" />
+    <meta name="theme-color" content="#6C5CE7" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#3D2D9E" media="(prefers-color-scheme: dark)" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Dogo" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/dogo-icon-180.png" />
+    <link rel="apple-touch-icon" sizes="167x167" href="/icons/dogo-icon-167.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/icons/dogo-icon-152.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="description" content="Dogo — אפליקציית הכלבים הישראלית. ניהול בריאות, טיולים, מציאת פארקים ומומחים לכלב שלך." />
+    <title>Dogo</title>
+    <script type="module" crossorigin src="/assets/index-BVCJmeMd.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-DCeWjqp4.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-supabase-CE_7mkbY.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-motion-CQaecB0O.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-ui-LB_yXb6W.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-C0qeH3Ar.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+      (() => {
+        const isLocalHost = ['127.0.0.1', 'localhost', '::1'].includes(window.location.hostname);
+        if (!isLocalHost) return;
+
+        const hasSessionToken =
+          window.localStorage.getItem('base44_access_token') ||
+          window.localStorage.getItem('token');
+        const url = new URL(window.location.href);
+
+        if (!hasSessionToken && !url.searchParams.has('analytics-enable')) {
+          url.searchParams.set('analytics-enable', 'false');
+          window.history.replaceState({}, document.title, url);
+        }
+      })();
+    </script>
+  </body>
+</html>

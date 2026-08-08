@@ -1,1 +1,0 @@
-import{a as t}from"./index-BVCJmeMd.js";const i=t("community_questions"),l=t("community_answers"),o=[{key:"health",label:"בריאות"},{key:"nutrition",label:"תזונה"},{key:"training",label:"אילוף"},{key:"behavior",label:"התנהגות"},{key:"other",label:"אחר"}],y=a=>{var e;return((e=o.find(n=>n.key===a))==null?void 0:e.label)||"אחר"};export{i as C,o as Q,l as a,y as q};

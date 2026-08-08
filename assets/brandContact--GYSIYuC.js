@@ -1,1 +1,0 @@
-const s="dogo-il.com",n=`https://${s}`,c=`https://www.${s}`,e="דרך טופס המשוב באפליקציה";function O(){if(typeof window>"u")return n;const o=window.location.origin,i=o.includes("localhost")||o.includes("127.0.0.1"),t=o.includes("base44.app");return i||t?n:o}export{n as D,e as a,c as b,O as g};

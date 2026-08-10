@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /business-plan.html
-Disallow: /bundle-analysis.html
-Allow: /
+Disallow: /
+Allow: /privacy.html
+Allow: /terms.html
+Allow: /support.html

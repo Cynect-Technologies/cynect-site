@@ -1,2 +1,0 @@
-const r="".trim().toUpperCase().replace(/[\s-]/g,""),s=new Set(r?[r]:[]);function o(e=""){return String(e).trim().toUpperCase().replace(/[\s-]/g,"")}function i(e=""){return s.has(o(e))}function u(e,t=""){const n=["היי, הזמנה קצרה ל-Dogo בהשקה שקטה:",e,""];return t?n.push(`הקוד האישי שלך: ${t}`,"הקוד משייך אותך לקבוצת הבדיקה של ההשקה השקטה."):n.push("אם קיבלת ממני קוד אישי, מזינים אותו בהרשמה כדי להצטרף לקבוצת הבדיקה."),n.push("אפשר לפתוח מהטלפון ולהוסיף למסך הבית כמו אפליקציה. יש מדריך קצר עם תמונות בתוך הקישור."),n.join(`
-`)}export{u as g,i,o as n};

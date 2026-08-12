@@ -1,4 +1,4 @@
-Dogo — Third-Party Software Notices
+Cynect — Third-Party Software Notices
 ====================================
 This application includes third-party software components.
 Full license texts are available at the URLs listed below.

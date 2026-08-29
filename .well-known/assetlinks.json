@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cynect.app",
+      "sha256_cert_fingerprints": [
+        "7F:3B:E9:C6:5D:38:96:C3:E2:23:0F:5C:98:30:6A:45:E9:83:50:D1:73:88:24:92:EB:CE:4C:D3:F9:E0:8E:34"
+      ]
+    }
+  }
+]

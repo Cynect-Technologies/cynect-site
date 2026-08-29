@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["35LY2FL546.com.dogoil.app"],
+        "components": [
+          { "/": "/GuardianAccess*", "comment": "a friend walking the dog" },
+          { "/": "/VetAccess*", "comment": "a vet reading the medical file" },
+          { "/": "/PublicDogProfile*", "comment": "a dog profile shared between owners" }
+        ]
+      }
+    ]
+  }
+}

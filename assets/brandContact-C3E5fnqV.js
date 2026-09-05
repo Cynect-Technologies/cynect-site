@@ -1,0 +1,1 @@
+const e="cynect.app",i=`https://${e}`,o="abendavid@cynect.app";function s(){if(typeof window>"u")return i;const n=window.location.origin,c=n.includes("localhost")||n.includes("127.0.0.1"),t=n.includes("base44.app");return c||t?i:n}export{o as C,i as a,s as g};

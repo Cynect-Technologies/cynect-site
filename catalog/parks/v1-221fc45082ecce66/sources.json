@@ -1,0 +1,135 @@
+{
+  "version": "v1-221fc45082ecce66",
+  "database_license": {
+    "id": "ODbL-1.0",
+    "name": "Open Data Commons Open Database License (ODbL) v1.0",
+    "url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "statement": "This database is made available under the Open Database License (ODbL) v1.0.",
+    "statement_he": "מאגר נתונים זה מוצע ברישיון Open Database License (ODbL) v1.0."
+  },
+  "content_rights_notice": "The database licence applies to this compilation. It does not relicense the underlying source websites, municipal text, photographs, logos or other protected content. Per-source terms and notices are retained separately. Citing a municipal website as factual evidence does not claim that the website or its contents are openly licensed.",
+  "content_rights_notice_he": "רישיון המאגר חל על אוסף הנתונים. הוא אינו משנה את הזכויות באתרי המקור, בטקסטים עירוניים, בתצלומים, בסמלים או בתוכן מוגן אחר. תנאי המקורות מובאים בנפרד. הפניה לאתר עירוני כמקור לעובדה אינה קביעה שהאתר או תכניו מופצים ברישיון פתוח.",
+  "attribution": "Contains OpenStreetMap data, © OpenStreetMap contributors. Per-source notices are retained in records.",
+  "source_notices": {
+    "openstreetmap_existing": {
+      "provider": "OpenStreetMap contributors",
+      "source_database_license_id": "ODbL-1.0",
+      "source_url": "https://www.openstreetmap.org/",
+      "terms_url": "https://www.openstreetmap.org/copyright"
+    },
+    "tel_aviv_open_data": {
+      "provider": "עיריית תל אביב-יפו",
+      "source_database_license_id": "municipality_custom_open_terms",
+      "source_url": "https://gisn.tel-aviv.gov.il/arcgis/rest/services/WM/IView2WM/MapServer/586",
+      "terms_url": "https://opendatasource.tel-aviv.gov.il/he/Pages/faq.aspx"
+    },
+    "jerusalem_datacity": {
+      "provider": "עיריית ירושלים",
+      "source_database_license_id": "ODbL-1.0",
+      "source_url": "https://jerusalem.datacity.org.il/dataset/dogs-spots/resource/3a806c89-d736-4b8d-b3f5-7dd11dfea15f",
+      "terms_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+    },
+    "beersheba_government_open_data": {
+      "provider": "עיריית באר שבע",
+      "source_database_license_id": "data_gov_il_default_open_license",
+      "source_url": "https://data.gov.il/api/3/action/package_show?id=dog-gardens-br7",
+      "terms_url": "https://data.gov.il/terms-of-use"
+    },
+    "kfar_saba_datacity": {
+      "provider": "עיריית כפר סבא",
+      "source_database_license_id": "ODbL-1.0",
+      "source_url": "https://kfar-saba.datacity.org.il/dataset/dog-garden/resource/ab58d244-6ea7-4d90-80f5-134a53b575ec",
+      "terms_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+    },
+    "manual_inpa_policy_summary": {
+      "provider": "רשות הטבע והגנים; recorded independent Cynect summaries",
+      "source_database_license_id": null,
+      "source_url": "https://www.parks.org.il/new/dogs/",
+      "terms_url": null
+    },
+    "manual_municipal_dog_beaches": {
+      "provider": "Official municipal webpages; recorded manual compilation",
+      "source_database_license_id": null,
+      "source_url": null,
+      "terms_url": null
+    }
+  },
+  "historical_coordinate_provenance_unknown_ids": [
+    "0e1db0a0-b962-4691-91c9-3b5a0b53f7de",
+    "11db5124-5f40-4fe8-b98a-962c01a1801b",
+    "1785133b-d1b9-470a-9ebc-bdcf782b2070",
+    "1e41654c-4795-4b42-8c4c-65602ec6fbd5",
+    "23e83f50-7f14-479f-9c84-26e745f96a3b",
+    "24974f01-b8d7-41ea-ab32-bbf9d05e1d3a",
+    "27e69334-7e43-4e53-bfad-49537644ff8c",
+    "2c05a1cb-6635-410d-b1b0-852c8b11ee4a",
+    "37bf8489-7ea3-41f7-b253-b9deb062f9db",
+    "3869ec62-d38d-4623-92cf-d18613671d25",
+    "39e7d1b1-e431-49b9-8d47-e06a916fba75",
+    "45adb867-dd9c-42f2-bde9-0c1118ab4e67",
+    "5c4a537e-b256-4a39-a997-7831cfd817b7",
+    "6693df2d-5ac1-401c-9d37-cf033cd48b16",
+    "69c16a7b-813c-43b0-ac25-efcdc3ecf5cd",
+    "6acb11ac-a399-4ebb-a3b7-216d9a56b5ca",
+    "81d7e5bd-7ea1-475a-bea4-8f90497fb2d3",
+    "90ca3bd3-4968-4412-ac62-98690260623a",
+    "936f0f4c-00fa-428a-a627-bbbd317aef48",
+    "9efdd05b-a10e-402f-b8cb-2f44781889ab",
+    "a1ff5e47-aea1-46ae-9ce2-9089361a4011",
+    "a228fef4-faad-433c-b69b-74be211cac3e",
+    "a6aee57a-7f10-476b-83b2-c827ea84115e",
+    "b0f8e7ca-6b3a-41e8-a0e8-f00b46071d68",
+    "b5a516f2-40f6-42a8-96f5-29b0d554c969",
+    "bb46ba29-c8f1-4ca4-9311-0fc77a6e3559",
+    "c1a5b69e-f636-452e-8fb4-8cda92b08a5a",
+    "c81220b3-9ba8-4c33-a317-bc7d12c41199",
+    "cc55beb1-9637-4a63-80e0-cd4ffd156ccb",
+    "cd50e8ee-e4f3-4230-bd5c-8c3baf9564d1",
+    "d116b704-eb66-4b72-abcb-b2eb05ffce2a",
+    "e2eb67d1-585d-46b8-b8d5-45fddfc3bf39",
+    "e847de05-c926-4a81-a728-8b37ec04423c",
+    "facc3625-6fdc-4aac-b428-92d5462c3eac",
+    "fe72724e-b4d6-4af7-b880-8b60e29f4bab"
+  ],
+  "content_sources": [
+    {
+      "source_key": "official_policy_content:bat_yam_beaches",
+      "source_url": "https://www.bat-yam.muni.il/he/424/",
+      "provider": "עיריית בת ים",
+      "source_publication_date": null,
+      "source_retrieval_date": "2026-09-14",
+      "source_extraction_utc": "2026-09-14T14:51:08.632307+00:00",
+      "source_evidence_sha256": "65a1d4f79fa7df76d09cad0945735b0a852bf8e8c248b5ac7ea58b769959eee2",
+      "raw_page_response_sha256": null,
+      "hash_semantics": "Curated evidence record; not a hash of raw HTML. Direct byte fetch failed 403.",
+      "wording_method": "Independent concise factual Hebrew rewrite; no quoted expressive description in catalog payload.",
+      "osm_used_for_these_facts": false
+    },
+    {
+      "source_key": "official_policy_content:herzliya_rules",
+      "source_url": "https://herzliya.muni.il/רשות-החופים-שירותי-הצלה-ומידע-למתרחץ/",
+      "provider": "עיריית הרצליה",
+      "source_publication_date": null,
+      "source_retrieval_date": "2026-09-14",
+      "source_extraction_utc": "2026-09-14T14:51:08.632307+00:00",
+      "source_evidence_sha256": "300f7dd6555270af4dd34326f9e21957394ee295b1977e4aa8978cab2427d97b",
+      "raw_page_response_sha256": null,
+      "hash_semantics": "Curated evidence record; not a hash of raw HTML. Direct byte fetch failed 403.",
+      "wording_method": "Independent concise factual Hebrew rewrite; no quoted expressive description in catalog payload.",
+      "osm_used_for_these_facts": false
+    },
+    {
+      "source_key": "official_policy_content:inpa_policy",
+      "source_url": "https://www.parks.org.il/new/dogs/",
+      "provider": "רשות הטבע והגנים",
+      "source_publication_date": "2025-01-01",
+      "source_retrieval_date": "2026-09-14",
+      "source_extraction_utc": "2026-09-14T14:51:08.632307+00:00",
+      "source_evidence_sha256": "8ffcdee0d347f5ea744daae3663eea9172d51e6e307700839303732114014076",
+      "raw_page_response_sha256": null,
+      "hash_semantics": "Curated evidence record; not a hash of raw HTML. Direct byte fetch failed 403.",
+      "wording_method": "Independent concise factual Hebrew rewrite; no quoted expressive description in catalog payload.",
+      "osm_used_for_these_facts": false
+    }
+  ]
+}

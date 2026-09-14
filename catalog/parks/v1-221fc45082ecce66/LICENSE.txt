@@ -1,0 +1,12 @@
+Cynect dog-park factual database
+
+This database is made available under the Open Database License (ODbL) v1.0.
+https://opendatacommons.org/licenses/odbl/1-0/
+
+Contains OpenStreetMap data, © OpenStreetMap contributors. Per-source notices are retained in records.
+
+The database licence applies to this compilation. It does not relicense the underlying source websites, municipal text, photographs, logos or other protected content. Per-source terms and notices are retained separately. Citing a municipal website as factual evidence does not claim that the website or its contents are openly licensed.
+
+רישיון המאגר חל על אוסף הנתונים. הוא אינו משנה את הזכויות באתרי המקור, בטקסטים עירוניים, בתצלומים, בסמלים או בתוכן מוגן אחר. תנאי המקורות מובאים בנפרד. הפניה לאתר עירוני כמקור לעובדה אינה קביעה שהאתר או תכניו מופצים ברישיון פתוח.
+
+Per-source notices: sources.json

@@ -1,0 +1,1 @@
+var e=`https://cynect.app`,t=`abendavid@cynect.app`;function n(){if(typeof window>`u`)return e;let t=window.location.origin,n=t.includes(`localhost`)||t.includes(`127.0.0.1`),r=t.includes(`base44.app`);return n||r?e:t}export{e as n,n as r,t};

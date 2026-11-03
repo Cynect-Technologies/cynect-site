@@ -22,6 +22,10 @@
             "/": "/FamilyInvite*"
           },
           {
+            "/": "/ProviderInvite*",
+            "comment": "a provider invited by a client; the token is in the fragment"
+          },
+          {
             "/": "/Help*"
           },
           {
